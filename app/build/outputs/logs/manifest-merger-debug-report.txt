@@ -1,0 +1,672 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:2:1-181:12
+	package
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:3:5-51
+	android:hardwareAccelerated
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:7:5-40
+	android:versionCode
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:13:5-81
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:16:5-68
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:18:5-67
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:19:5-76
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:21:5-75
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:22:5-79
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:23:5-81
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:15:5-81
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:26:5-68
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:23:5-68
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:26:22-65
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:29:22-65
+application
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:32:5-179:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\40284\.android\build-cache\3674d6b9f26d5f030c85e5e5848476888db15d9c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.pgyersdk:sdk:2.4.2] C:\Users\40284\.android\build-cache\1a483977c9ead06f6f46cdcac70c5212c9aaa8b8\output\AndroidManifest.xml:10:5-11:19
+MERGED from [me.dm7.barcodescanner:zbar:1.9] C:\Users\40284\.android\build-cache\60d87291b029c97ddda25169e415a4edb6546d88\output\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\40284\.android\build-cache\b94285cc0fbc1ae5b1dc3c861e7a8a18efecae81\output\AndroidManifest.xml:11:5-20
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:28:5-148:19
+MERGED from [YH-Android:HomeMetrics:unspecified] C:\Users\40284\Desktop\YH-Android\libs\HomeMetrics\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\40284\.android\build-cache\7999851ce6ed8d9b8711cb7eb0c6f2256805f377\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\40284\.android\build-cache\78e55c03a37824be020ad43b4107d0d40658141e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\40284\.android\build-cache\a75ada03f22c49b4f0688427a514af3cce74d554\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\40284\.android\build-cache\9dbe511c3e2123776a05adf851fbd15ee4193113\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\40284\.android\build-cache\b01edd5563ef615447fb3126749404d26f8b8bcf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\40284\.android\build-cache\afed956f492166c5bd3cf0f96ff2c2ef7b73a2bf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\40284\.android\build-cache\20dd10db90319be06b7d04be53ab0e90231c3898\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\40284\.android\build-cache\4a0d6f272252fa6665a1bc103dacb0dce044ee1e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\40284\.android\build-cache\daebb9b52de29d76ce656cffe78f914198aeda65\output\AndroidManifest.xml:29:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:28:5-57:19
+	android:label
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:36:9-41
+	android:supportsRtl
+		ADDED from [YH-Android:HomeMetrics:unspecified] C:\Users\40284\Desktop\YH-Android\libs\HomeMetrics\build\intermediates\bundles\default\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:34:9-35
+	android:icon
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:35:9-40
+	android:largeHeap
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:37:9-33
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:38:9-40
+	tools:replace
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:39:9-51
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:33:9-38
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:authorities
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:42:13-72
+	android:grantUriPermissions
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:44:13-47
+	android:exported
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:41:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:45:13-47:53
+	android:resource
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:47:17-50
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:46:17-67
+service#org.OpenUDID.OpenUDID_service
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:50:9-54:19
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:50:18-62
+intent-filter#org.openudid.GETUDID
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:51:13-53:29
+action#org.openudid.GETUDID
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:52:17-63
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:52:25-60
+activity#com.intfocus.yonghuitest.LoginActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:65:9-74:20
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:67:13-45
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:69:13-51
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:66:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:70:13-73:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:71:17-69
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:71:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:72:27-74
+activity#com.intfocus.yonghuitest.HomeTricsActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:75:9-78:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:77:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:76:13-46
+activity#com.intfocus.yonghuitest.ForgetPasswordActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:79:9-82:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:80:13-51
+activity#com.intfocus.yonghuitest.InputBarCodeActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:83:9-86:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:85:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:86:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:84:13-49
+activity#com.intfocus.yonghuitest.BarCodeScannerActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:87:9-90:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:89:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:90:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:88:13-51
+activity#com.intfocus.yonghuitest.setting.SettingActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:91:9-94:48
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:93:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:94:13-45
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:92:13-52
+activity#com.intfocus.yonghuitest.setting.SettingListActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:95:9-98:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:97:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:98:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:96:13-56
+activity#com.intfocus.yonghuitest.setting.SettingPreferenceActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:99:9-102:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:101:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:100:13-62
+activity#com.intfocus.yonghuitest.dashboard.DashboardActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:103:9-106:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:105:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:106:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:104:13-56
+activity#com.intfocus.yonghuitest.SubjectActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:107:9-111:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:110:13-51
+	android:configChanges
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:109:13-59
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:111:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:108:13-44
+activity#com.intfocus.yonghuitest.ReportSelectorAcitity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:112:9-115:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:114:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:115:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:113:13-50
+activity#com.intfocus.yonghuitest.CommentActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:116:9-119:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:118:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:119:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:117:13-44
+activity#com.intfocus.yonghuitest.ResetPasswordActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:120:9-123:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:122:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:123:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:121:13-50
+activity#com.intfocus.yonghuitest.BarCodeResultActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:124:9-127:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:126:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:127:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:125:13-50
+activity#com.intfocus.yonghuitest.StoreSelectorActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:128:9-131:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:130:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:131:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:129:13-50
+activity#com.intfocus.yonghuitest.screen_lock.InitPassCodeActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:132:9-135:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:134:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:135:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:133:13-61
+activity#com.intfocus.yonghuitest.screen_lock.ConfirmPassCodeActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:136:9-139:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:138:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:139:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:137:13-64
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:140:9-143:54
+	android:excludeFromRecents
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:142:13-46
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:143:13-51
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:141:13-72
+activity#com.intfocus.yonghuitest.setting.ThursdaySayActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:144:9-147:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:146:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:147:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:145:13-56
+activity#com.intfocus.yonghuitest.DeveloperActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:148:9-151:47
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:150:13-49
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:151:13-44
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:149:13-46
+activity#com.intfocus.yonghuitest.wxapi.WXEntryActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:152:9-157:75
+	android:screenOrientation
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:156:13-49
+	android:exported
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:155:13-36
+	android:configChanges
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:154:13-74
+	android:theme
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:157:13-72
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:153:13-50
+service#com.intfocus.yonghuitest.LocalNotificationService
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:160:9-61
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:160:18-58
+meta-data#PGYER_APPID
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:163:9-165:74
+	android:value
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:165:13-61
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:164:13-39
+meta-data#UMENG_APPKEY
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:168:9-170:66
+	android:value
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:170:13-53
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:169:13-40
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:171:9-173:74
+	android:value
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:173:13-61
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:172:13-48
+meta-data#UMENG_CHANNEL
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:174:9-176:37
+	android:value
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:176:13-34
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:175:13-41
+activity#com.intfocus.yonghuitest.setting.ShowListMsgActivity
+ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:178:9-74
+	android:name
+		ADDED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:178:19-62
+uses-sdk
+INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] C:\Users\40284\.android\build-cache\3674d6b9f26d5f030c85e5e5848476888db15d9c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\40284\.android\build-cache\c21ac92e5f8eb6754b70e71f30b498415e79e4fd\output\AndroidManifest.xml:20:5-43
+MERGED from [com.pgyersdk:sdk:2.4.2] C:\Users\40284\.android\build-cache\1a483977c9ead06f6f46cdcac70c5212c9aaa8b8\output\AndroidManifest.xml:6:5-8:41
+MERGED from [me.dm7.barcodescanner:zbar:1.9] C:\Users\40284\.android\build-cache\60d87291b029c97ddda25169e415a4edb6546d88\output\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9] C:\Users\40284\.android\build-cache\b94285cc0fbc1ae5b1dc3c861e7a8a18efecae81\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wang.avi:library:2.1.3] C:\Users\40284\.android\build-cache\38e2da18b4e79fbe3934c57770ab8a5382ddd8fd\output\AndroidManifest.xml:7:5-9:41
+MERGED from [YH-Android:android-pdfview:unspecified] C:\Users\40284\Desktop\YH-Android\libs\android-pdfview\build\intermediates\bundles\default\AndroidManifest.xml:24:5-26:41
+MERGED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:8:5-10:41
+MERGED from [YH-Android:HomeMetrics:unspecified] C:\Users\40284\Desktop\YH-Android\libs\HomeMetrics\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\40284\.android\build-cache\7999851ce6ed8d9b8711cb7eb0c6f2256805f377\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\40284\.android\build-cache\78e55c03a37824be020ad43b4107d0d40658141e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\40284\.android\build-cache\a75ada03f22c49b4f0688427a514af3cce74d554\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.1.0] C:\Users\40284\.android\build-cache\b4acfee1a1356eb3752791c3ac0377880838ff81\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.databinding:adapters:1.3.1] C:\Users\40284\.android\build-cache\279d92f54f6013a23efb4579c372c16e1618bcea\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] C:\Users\40284\.android\build-cache\c6519858a35afcb851dcb4256a20ba07af261d50\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\40284\.android\build-cache\9dbe511c3e2123776a05adf851fbd15ee4193113\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\40284\.android\build-cache\b01edd5563ef615447fb3126749404d26f8b8bcf\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\40284\.android\build-cache\afed956f492166c5bd3cf0f96ff2c2ef7b73a2bf\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\40284\.android\build-cache\20dd10db90319be06b7d04be53ab0e90231c3898\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\40284\.android\build-cache\4a0d6f272252fa6665a1bc103dacb0dce044ee1e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\40284\.android\build-cache\daebb9b52de29d76ce656cffe78f914198aeda65\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\40284\.android\build-cache\7999851ce6ed8d9b8711cb7eb0c6f2256805f377\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:18:5-82
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:18:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:19:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:5-84
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:20:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:21:5-85
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:21:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:22:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:26:5-76
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:26:22-73
+service#com.taobao.accs.ChannelService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:29:9-39:19
+	android:process
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:32:13-39
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:30:13-58
+intent-filter#com.taobao.accs.intent.action.SERVICE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:33:13-35:29
+action#com.taobao.accs.intent.action.SERVICE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:17-80
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:34:25-77
+intent-filter#com.taobao.accs.intent.action.ELECTION
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:36:13-38:29
+action#com.taobao.accs.intent.action.ELECTION
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:37:25-78
+service#com.taobao.accs.data.MsgDistributeService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:40:9-46:19
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:41:13-69
+intent-filter#com.taobao.accs.intent.action.RECEIVE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:43:13-45:29
+action#com.taobao.accs.intent.action.RECEIVE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:44:17-80
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:44:25-77
+receiver#com.taobao.accs.EventReceiver
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:48:9-65:20
+	android:process
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:50:13-39
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:49:13-57
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:51:13-53:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:52:25-76
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:54:13-56:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:55:17-79
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:55:25-76
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:57:13-61:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:58:17-80
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:58:25-77
+data
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:60:17-50
+	android:scheme
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:60:23-47
+intent-filter#android.intent.action.USER_PRESENT
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:62:13-64:29
+action#android.intent.action.USER_PRESENT
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:63:17-77
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:63:25-74
+receiver#com.taobao.accs.ServiceReceiver
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:66:9-76:20
+	android:process
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:69:13-39
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:67:13-59
+intent-filter#com.taobao.accs.intent.action.COMMAND
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:70:13-72:29
+action#com.taobao.accs.intent.action.COMMAND
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:71:17-80
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:71:25-77
+intent-filter#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:73:13-75:29
+action#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:74:17-88
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:74:25-85
+service#com.taobao.accs.ChannelService$KernelService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:78:9-81:19
+	android:process
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:80:13-39
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:79:13-72
+service#org.android.agoo.accs.AgooService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:82:9-88:19
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:83:13-61
+service#com.umeng.message.UmengIntentService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:89:9-96:19
+	android:process
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:92:13-39
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:91:13-36
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:90:13-64
+intent-filter#org.agoo.android.intent.action.RECEIVE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:93:13-95:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:94:17-81
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:94:25-78
+receiver#com.taobao.agoo.AgooCommondReceiver
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:98:9-109:20
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:100:13-36
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:99:13-63
+intent-filter#${applicationId}.intent.action.COMMAND
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:101:13-103:29
+action#${applicationId}.intent.action.COMMAND
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:102:17-81
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:102:25-78
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:110:9-112:40
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:111:13-80
+service#com.umeng.message.UmengMessageCallbackHandlerService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:114:9-129:19
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:115:13-80
+intent-filter#com.umeng.messge.registercallback.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:117:13-119:29
+action#com.umeng.messge.registercallback.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:118:17-83
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:118:25-80
+intent-filter#com.umeng.message.enablecallback.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:120:13-122:29
+action#com.umeng.message.enablecallback.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:121:17-82
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:121:25-79
+intent-filter#com.umeng.message.disablecallback.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:123:13-125:29
+action#com.umeng.message.disablecallback.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:124:17-83
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:124:25-80
+intent-filter#com.umeng.message.message.handler.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:126:13-128:29
+action#com.umeng.message.message.handler.action
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:127:17-83
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:127:25-80
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:130:9-132:40
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:132:13-37
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:131:13-74
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:133:9-140:19
+	android:process
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:136:13-39
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:135:13-36
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:134:13-79
+intent-filter#org.android.agoo.client.MessageReceiverService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:137:13-139:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:138:17-89
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:138:25-86
+provider#com.umeng.message.provider.MessageProvider
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:142:9-147:20
+	android:authorities
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:144:13-65
+	android:exported
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:145:13-37
+	android:name
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:143:13-70
+grant-uri-permission
+ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:146:13-62
+	android:pathPattern
+		ADDED from [YH-Android:PushSDK:unspecified] C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\AndroidManifest.xml:146:35-59
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\40284\Desktop\YH-Android\app\src\main\AndroidManifest.xml:2:1-181:12 reason: com.umeng.message.lib requested WRITE_EXTERNAL_STORAGE
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:25:5-80
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\40284\.android\build-cache\7999851ce6ed8d9b8711cb7eb0c6f2256805f377\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\40284\.android\build-cache\78e55c03a37824be020ad43b4107d0d40658141e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\40284\.android\build-cache\a75ada03f22c49b4f0688427a514af3cce74d554\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\40284\.android\build-cache\9dbe511c3e2123776a05adf851fbd15ee4193113\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\40284\.android\build-cache\b01edd5563ef615447fb3126749404d26f8b8bcf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\40284\.android\build-cache\afed956f492166c5bd3cf0f96ff2c2ef7b73a2bf\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\40284\.android\build-cache\20dd10db90319be06b7d04be53ab0e90231c3898\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\40284\.android\build-cache\4a0d6f272252fa6665a1bc103dacb0dce044ee1e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\40284\.android\build-cache\daebb9b52de29d76ce656cffe78f914198aeda65\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\40284\.android\build-cache\7999851ce6ed8d9b8711cb7eb0c6f2256805f377\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\40284\.android\build-cache\7999851ce6ed8d9b8711cb7eb0c6f2256805f377\output\AndroidManifest.xml:26:9-47
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:29:9-32:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:31:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] C:\Users\40284\.android\build-cache\94590a98a15e6fc29feb5fd867bc0448144ee229\output\AndroidManifest.xml:51:13-93

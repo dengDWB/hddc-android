@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png",
+        "source": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_light_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_socialize_oauth_check_off.png",
+        "source": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_socialize_oauth_check_on.png",
+        "source": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png",
+        "source": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\src\\main\\res\\drawable-hdpi\\umeng_socialize_nav_bar_bg_pad.9.png"
+    },
+    {
+        "merged": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_logo.png",
+        "source": "C:\\Users\\40284\\Desktop\\YH-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_logo.png"
+    }
+]

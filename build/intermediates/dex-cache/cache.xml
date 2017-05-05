@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\androidstudiosdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_2d6ea6711c7bb82b0efffdca04af32c8c9fb74ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\20dd10db90319be06b7d04be53ab0e90231c3898\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28f5dbcd9b97d95e307a6aca63bbd41a98790889\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\b01edd5563ef615447fb3126749404d26f8b8bcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_517135308df960104e59a126bf62085fddcad72d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\7999851ce6ed8d9b8711cb7eb0c6f2256805f377\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0098a2658e9d29a22931ea8a0e8f4fca93b23d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\app\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c5dd052d074b0d96e805bc12a935c9793641dbe">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_4d2cb09deb89b4780ba9cb3ae3a4ee2e61853a47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android Studio\gradle\m2repository\com\android\databinding\baseLibrary\2.3.1\baseLibrary-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2626e02aa9592edd5386d87408e05727303d9ded">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.1_5ca1a481881985741899c0b9bd29e084e7d800e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\9dbe511c3e2123776a05adf851fbd15ee4193113\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d41c32fc09a0b799f6fdbc8b578394d5dd1b0b8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\libs\utdid4all-1.1.5_proguard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a96e7800ffe107ef0fd262f8025eea5e661377ea">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\utdid4all-1.1.5_proguard_21c9f31ce3e38f9d1a47c23609af7afb1be28753\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.1.0\d6854f42bfb4098d3d2358d93201307b9f1cc95d\butterknife-annotations-8.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.1.0_3775b1437ebb942e0c82d536c4eefaaa11c731dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\app\libs\android-viewbadger.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-viewbadger_dc5185c7324d236395c3b0b788564eabfe4dacbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\c6519858a35afcb851dcb4256a20ba07af261d50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01422d080e80f4ef1b442e646aa6fea55860dd3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\a75ada03f22c49b4f0688427a514af3cce74d554\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de6f621110b3270342d7d1b7f0f220f3697584b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\daebb9b52de29d76ce656cffe78f914198aeda65\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59eb7b16d6be01127516bc479fc3598ba71600f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca647336bd736cb9d3aeb20f4714427bdf100c96">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_141394ac2b7bae6d2299237b96e0bffb75a73b65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="718873ff4674ef583d1074af0047445b68091181">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6277840bd32cbb3e7f755c5f558788048593d76b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\b4acfee1a1356eb3752791c3ac0377880838ff81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b18d20b47d29c965888ce7db5cdddf0a7d2dbec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\libs\alicloud-android-sdk-httpdns-1.0.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d61bb0f23861e5b86d4308a9ed2a4751e95fe03">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\alicloud-android-sdk-httpdns-1.0.7_c07115ad286ec017c40ee6ac01b10ff6d0a2b900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\app\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_1_8d281294adacb33e7d9e2810e7441fcdb8cc7f87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\78e55c03a37824be020ad43b4107d0d40658141e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9477e159fa2e38832a72261e267bf9ed7a23fe0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\279d92f54f6013a23efb4579c372c16e1618bcea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_570dcc7c4215744260efc2ed9ea7b5b13d32d10b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\PushSDK\build\intermediates\bundles\default\libs\com.umeng.message_v3.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="908324416af1f64aa3cb3145dcdab23c4db1e695">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\8\com.umeng.message_v3.0.6_e1c04a51d4878a92902679a4c103567ddba143a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a001c6fd3f4c72b3974532a882fd15a20df10426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.2_864606614e90f03221af477915f2ea43be0f0c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\Desktop\YH-Android\app\libs\umeng-analytics-v5.5.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.5.3_c2b98cb73a57ce9fb0e924730d390fdbb23b1a3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\afed956f492166c5bd3cf0f96ff2c2ef7b73a2bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22421000b37d23aa314149e418875bd9a5d1c074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\40284\.android\build-cache\4a0d6f272252fa6665a1bc103dacb0dce044ee1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\40284\Desktop\YH-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb91bd900dc6ad608d537680b7cab64696f857c3\classes.dex" />
+    </item>
+
+</items>

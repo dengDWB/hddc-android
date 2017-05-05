@@ -1,0 +1,19 @@
+apply plugin: 'com.android.library'
+
+description = 'android-pdfview'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '25.0.0'
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            jniLibs.srcDirs = [ 'libs' ]
+        }
+    }
+
+    lintOptions {
+         abortOnError false
+    }
+}
